@@ -1,0 +1,6 @@
+================= REACT =============
+
+1 - Um component no react é uma função que retorna JSX.
+2 - JSX é um component do react.
+3 - TSX é um arquivo do react que possui JSX.
+4 - O nome de um component em react deve obedecer ao padrão PascalCase.
