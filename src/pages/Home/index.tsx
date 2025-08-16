@@ -4,14 +4,14 @@ import { MainForm } from "../../components/MainForm";
 import { MainTemplate } from "../../components/templates/MainTemplate";
 
 export function Home() {
-    return (
-        <MainTemplate>
-            <Container>
-                <CountDown />
-            </Container>
-            <Container>
-                <MainForm />
-            </Container>
-        </MainTemplate>
-    )
+  return (
+    <MainTemplate>
+      <Container>
+        <CountDown />
+      </Container>
+      <Container>
+        <MainForm />
+      </Container>
+    </MainTemplate>
+  );
 }

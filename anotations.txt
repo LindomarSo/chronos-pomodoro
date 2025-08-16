@@ -4,3 +4,4 @@
 2 - JSX é um component do react.
 3 - TSX é um arquivo do react que possui JSX.
 4 - O nome de um component em react deve obedecer ao padrão PascalCase.
+5 - Quando eu quero monitorar um estado e fazer alguma ação então eu uso o hook useEffect.
