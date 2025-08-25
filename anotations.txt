@@ -5,3 +5,13 @@
 3 - TSX é um arquivo do react que possui JSX.
 4 - O nome de um component em react deve obedecer ao padrão PascalCase.
 5 - Quando eu quero monitorar um estado e fazer alguma ação então eu uso o hook useEffect.
+6 - Elementos que vão dentro da tag do component são chamados de children que é um prop especial do React.
+
+================== UseReducer ========================
+
+1 - UseReducer => Hook do react que recebe um reducer e um estado inicial.
+2 - reducer => Função que recebe o estado atual e uma ação, e retorna o novo estado.
+3 - state  => Estado atual
+4 - action => A ação disparada, geralmente é um objeto com type e (opcionalmente) payload.
+5 - type => O tipo da ação, geralmente uma string (pode ser enum, constante, etc)
+6 - Payload => Os dados extras enviado junto com a action, se necessário para atualizar o estado.
